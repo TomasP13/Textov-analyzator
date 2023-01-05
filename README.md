@@ -1,1 +1,1 @@
-# Textov-analyzator
+# Textový-analyzator
